@@ -1,0 +1,15 @@
+{
+    "name": "carlos/cache-management",
+    "autoload": {
+        "psr-4": {
+            "Carlos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cjuniordev",
+            "email": "carlosrogeriocr02@gmail.com"
+        }
+    ],
+    "require": {}
+}
